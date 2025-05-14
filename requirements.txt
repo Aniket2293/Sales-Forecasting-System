@@ -5,7 +5,6 @@ scikit-learn
 plotly
 Werkzeug
 openpyxl
-<<<<<<< HEAD
-=======
+HEAD
 gunicorn==20.1.0
->>>>>>> master
+master
